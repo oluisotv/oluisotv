@@ -1,16 +1,19 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil 👋
 
 <!--
-**oluisotv/oluisotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oluisotv/oluisotv** Sou desenvolvedor apaixonado por resolver problemas criativos com código. Atualmente, estou focado em projetos que combinam audiovisual e a programação;
 
-Here are some ideas to get you started:
+🔧 Habilidades:
+Linguagens: JavaScript, Python, C++, CSS, HTML, PHP
+Frameworks: React, Node.js, .NET
+Ferramentas: Git, Docker, CI/CD
+Bancos de Dados: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Sempre Aprendendo:
+Atualmente estudando: Desenvolvimento de Sistemas e After Effects
+Interesses futuros: Engenharia da Computação e Produção Audiovisual 
+
+💬 Entre em Contato:
+LinkedIn: oluisotv
+E-mail: oluisotv@gmail.com
 -->
